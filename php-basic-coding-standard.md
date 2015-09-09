@@ -50,6 +50,6 @@
 
 ## 5.变量与关键字
 
-- PHP所有 [关键字][http://php.net/manual/en/reserved.keywords.php]**必须**全部小写，常量 `true` 、`false` 和 `null` 也**必须**全部小写；
+- PHP所有 [关键字][http://php.net/manual/en/reserved.keywords.php] **必须**全部小写，常量 `true` 、`false` 和 `null` 也**必须**全部小写；
 - 变量声明**应该**使用下滑线分隔的小写字母，**不应该**使用非通用的单词简写，**不应该**出现英文以外的拼写或简写；
 - 数组声明和使用都**应该**使用`[]` 代替 `array()`。
